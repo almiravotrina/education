@@ -1,2 +1,6 @@
 # education
-studing react
+studing react:
+ JSX
+ Состояние
+ Композиция
+ Express
